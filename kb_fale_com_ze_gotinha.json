@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "nome": "Fale com o Zé Gotinha",
+    "versao": "1.0",
+    "data": "2026-01-12",
+    "disclaimer": "Este assistente utiliza fontes oficiais do Ministério da Saúde/PNI e não substitui orientação médica. Para vacinar-se, procure uma UBS com seu cartão.",
+    "fontes_gerais": [
+      {
+        "titulo": "Vacinação — Ministério da Saúde",
+        "url": "https://www.gov.br/saude/pt-br/vacinacao"
+      },
+      {
+        "titulo": "Programa Nacional de Imunizações (PNI)",
+        "url": "https://www.gov.br/saude/pt-br/composicao/svsa/pni"
+      },
+      {
+        "titulo": "Calendário de Vacinação",
+        "url": "https://www.gov.br/saude/pt-br/vacinacao/calendario"
+      },
+      {
+        "titulo": "Calendário Técnico Nacional de Vacinação",
+        "url": "https://www.gov.br/saude/pt-br/composicao/svsa/pni/calendario-tecnico"
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "pergunta": "Quais vacinas meu filho deve tomar aos 15 meses?",
+      "resposta": "Aos 15 meses, o reforço de poliomielite é realizado com vacina inativada (VIP), substituindo a VOPb. Demais vacinas e intervalos dependem do histórico e do calendário da criança (ex.: tríplice viral, varicela, meningocócicas e pneumocócicas, conforme situação). Procure a UBS para conferir o cartão.",
+      "fontes": [
+        {
+          "titulo": "Nota Técnica nº 23/2025",
+          "url": "https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/notas-tecnicas/2025/nota-tecnica-no-23-2025-cgici-dpni-svsa-ms.pdf"
+        },
+        {
+          "titulo": "Calendário Técnico – Criança",
+          "url": "https://www.gov.br/saude/pt-br/vacinacao/calendario-tecnico/calendario-tecnico-nacional-de-vacinacao-crianca"
+        }
+      ]
+    },
+    {
+      "pergunta": "Vacinas são seguras?",
+      "resposta": "Sim. Vacinas do SUS passam por rigorosos processos de qualidade e segurança e são recomendadas pelo PNI para prevenir doenças graves. Eventos adversos são monitorados e orientações são fornecidas nos serviços de saúde.",
+      "fontes": [
+        {
+          "titulo": "FAQ – Vacinas são seguras?",
+          "url": "https://www.gov.br/saude/pt-br/composicao/svsa/pni/faq/faq/vacinas"
+        },
+        {
+          "titulo": "Vacinação — MS",
+          "url": "https://www.gov.br/saude/pt-br/vacinacao"
+        }
+      ]
+    },
+    {
+      "pergunta": "Onde posso me vacinar e o que fazer se perdi o cartão?",
+      "resposta": "Você pode se vacinar gratuitamente nas salas de vacinação das UBS. Se perdeu o cartão, procure a unidade para resgatar seu histórico e emitir a segunda via. A ausência da caderneta não impede a vacinação.",
+      "fontes": [
+        {
+          "titulo": "O que é preciso ser feito para me vacinar?",
+          "url": "https://www.gov.br/saude/pt-br/vacinacao/faq/vacinas/o-que-e-preciso-ser"
+        }
+      ]
+    },
+    {
+      "pergunta": "Qual é o calendário de vacinas para adultos (25–59 anos)?",
+      "resposta": "Adultos devem manter o esquema de hepatite B (3 doses, se incompleto) e atualizar o reforço de difteria e tétano (dT) a cada 10 anos, com antecipação a 5 anos em algumas situações.",
+      "fontes": [
+        {
+          "titulo": "Calendário Técnico – Adulto",
+          "url": "https://www.gov.br/saude/pt-br/vacinacao/calendario-tecnico/calendario-tecnico-nacional-de-vacinacao-adulto"
+        }
+      ]
+    },
+    {
+      "pergunta": "Como está a vacinação contra a COVID-19?",
+      "resposta": "A vacina contra a COVID-19 integra o calendário para gestantes (1 dose a cada gestação) e idosos (1 dose a cada 6 meses). Crianças de 6 meses a menores de 5 anos têm esquemas específicos conforme o imunizante (Pfizer ou Moderna). Grupos especiais a partir de 5 anos são vacinados periodicamente.",
+      "fontes": [
+        {
+          "titulo": "Notícia – Estratégia Atualizada (12/2024)",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2024/dezembro/ministerio-da-saude-atualiza-estrategia-de-vacinacao-contra-a-covid-19"
+        },
+        {
+          "titulo": "Estratégia de Vacinação contra a COVID-19 (2ª ed. 2024)",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/covid-19/publicacoes-tecnicas/guias-e-planos/estrategia-de-vacinacao-contra-a-covid-19-2024-2a-edicao"
+        }
+      ]
+    },
+    {
+      "pergunta": "O que é o PNI e por que é importante?",
+      "resposta": "O Programa Nacional de Imunizações coordena a política de vacinação no Brasil, garantindo acesso gratuito a 47 imunobiológicos (30 vacinas, 13 soros e 4 imunoglobulinas) para todas as fases da vida.",
+      "fontes": [
+        {
+          "titulo": "PNI — Página oficial",
+          "url": "https://www.gov.br/saude/pt-br/composicao/svsa/pni"
+        }
+      ]
+    }
+  ],
+  "resumos_calendario": {
+    "crianca": {
+      "destaques": [
+        "BCG ao nascer; Hepatite B na primeira semana de vida; esquema penta, VIP, rotavírus e demais vacinas conforme idades.",
+        "Mudança 2025: reforço de pólio com VIP aos 15 meses (sem VOPb) e ampliação das janelas para rotavírus (1ª dose até 11m29d; 2ª dose até 23m29d; intervalo mínimo 30 dias)."
+      ],
+      "fontes": [
+        {
+          "titulo": "Calendário Técnico – Criança",
+          "url": "https://www.gov.br/saude/pt-br/vacinacao/calendario-tecnico/calendario-tecnico-nacional-de-vacinacao-crianca"
+        },
+        {
+          "titulo": "Nota Técnica nº 23/2025",
+          "url": "https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/notas-tecnicas/2025/nota-tecnica-no-23-2025-cgici-dpni-svsa-ms.pdf"
+        }
+      ]
+    },
+    "adolescente_jovem": {
+      "destaques": [
+        "HPV, hepatite B, dT/dTpa e outras conforme situação vacinal e faixa etária (10–24 anos)."
+      ],
+      "fontes": [
+        {
+          "titulo": "Calendário – Adolescentes e Jovens",
+          "url": "https://www.gov.br/saude/pt-br/vacinacao/calendario"
+        },
+        {
+          "titulo": "Calendários Técnicos",
+          "url": "https://www.gov.br/saude/pt-br/composicao/svsa/pni/calendario-tecnico"
+        }
+      ]
+    },
+    "adulto": {
+      "destaques": [
+        "Completar hepatite B (3 doses) e manter reforço dT a cada 10 anos."
+      ],
+      "fontes": [
+        {
+          "titulo": "Calendário Técnico – Adulto",
+          "url": "https://www.gov.br/saude/pt-br/vacinacao/calendario-tecnico/calendario-tecnico-nacional-de-vacinacao-adulto"
+        }
+      ]
+    },
+    "idoso": {
+      "destaques": [
+        "Manter cartão atualizado; esquemas e reforços conforme calendário do idoso."
+      ],
+      "fontes": [
+        {
+          "titulo": "Calendário Técnico – Idoso",
+          "url": "https://www.gov.br/saude/pt-br/composicao/svsa/pni/calendario-tecnico"
+        }
+      ]
+    },
+    "gestante": {
+      "destaques": [
+        "Vacinas recomendadas protegem a gestante e o bebê; COVID-19: 1 dose a cada gestação."
+      ],
+      "fontes": [
+        {
+          "titulo": "Calendário Técnico – Gestante",
+          "url": "https://www.gov.br/saude/pt-br/composicao/svsa/pni/calendario-tecnico"
+        },
+        {
+          "titulo": "Notícia COVID-19 12/2024",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2024/dezembro/ministerio-da-saude-atualiza-estrategia-de-vacinacao-contra-a-covid-19"
+        }
+      ]
+    }
+  }
+}
