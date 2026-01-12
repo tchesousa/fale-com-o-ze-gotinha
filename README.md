@@ -9,7 +9,7 @@ Chatbot oficial de vacinas — proposta de portfólio
 
 ## Conteúdo incluído
 
-- `kb_fale_com_ze_gotinha.json` — base inicial de FAQs e respostas.
+- `kb_fale_com_ze_gotinha.json` �� base inicial de FAQs e respostas.
 - `assets/` — imagens, avatar e outros recursos visuais.
 - `index.html` — página pública com o widget do chatbot (GitHub Pages).
 
